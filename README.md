@@ -24,13 +24,13 @@ the arguments of the function are all the .txt file:
 2. merging of train files
 3. merging of two datasets obtained by **1** and **2**
 
-###2- Assign appropriate labels to each variable
+### 2- Assign appropriate labels to each variable
 
 1. get features names from file
 2. add to features names the two variables added before: **subject** and **activity**
 3. give features names to the dataset
 
-###3- Extract mean and standard deviation
+### 3- Extract mean and standard deviation
 
 in this part we want to have the variables relted to mean and standard deviation.
 There are many way in which it can be solved; in this case I search for every variable that contain **mean** and **std** in the name.
@@ -40,7 +40,7 @@ So, for example, instead of only **mean()** and **std()** variables, we have als
 2. extract only variables containing mean of std in the name
 3. adding the exception to the result
 
-###4- Transform numeric values of activity in descriptive values
+### 4- Transform numeric values of activity in descriptive values
 
 in this case we have to change the numbers of the **activity** variables and assign for each value, the labels of **activity_labels**
 
