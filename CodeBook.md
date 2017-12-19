@@ -8,228 +8,215 @@ In this dataset there are **88** variables and **10299** observations
 * subject **3**
 
 # Activity
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
-# tBodyAcc-XYZ
-
-## mean
-
-* X:
-* Y:
-* Z:
-
-## std
-
-# tGravityAcc-XYZ
+# tBodyAcc
 
 ## mean
 
-* X:
-* Y:
-* Z:
+* X: tBodyAcc-mean()-X
+* Y: tBodyAcc-mean()-Y
+* Z: tBodyAcc-mean()-Z
 
 ## std
 
-* X:
-* Y:
-* Z:
+* X: tBodyAcc-std()-X
+* Y: tBodyAcc-std()-Y
+* Z: tBodyAcc-std()-Z
 
-# tBodyAccJerk-XYZ
+# tGravityAcc
 
 ## mean
 
-* X:
-* Y:
-* Z:
+* X: tGravityAcc-mean()-X
+* Y: tGravityAcc-mean()-Y
+* Z: tGravityAcc-mean()-Z
 
 ## std
 
-* X:
-* Y:
-* Z:
+* X: tGravityAcc-std()-X
+* Y: tGravityAcc-std()-Y
+* Z: tGravityAcc-std()-Z
 
-# tBodyGyro-XYZ
+# tBodyAccJerk
 
 ## mean
 
-* X:
-* Y:
-* Z:
+* X: tBodyAccJerk-mean()-X
+* Y: tBodyAccJerk-mean()-Y
+* Z: tBodyAccJerk-mean()-Z
 
 ## std
 
-* X:
-* Y:
-* Z:
+* X: tBodyAccJerk-std()-X
+* Y: tBodyAccJerk-std()-Y
+* Z: tBodyAccJerk-std()-Z
 
-# tBodyGyroJerk-XYZ
+# tBodyGyro
 
 ## mean
 
-* X:
-* Y:
-* Z:
+* X: tBodyGyro-mean()-X
+* Y: tBodyGyro-mean()-Y
+* Z: tBodyGyro-mean()-Z
 
 ## std
 
-* X:
-* Y:
-* Z:
+* X: tBodyGyro-std()-X
+* Y: tBodyGyro-std()-Y
+* Z: tBodyGyro-std()-Z
+
+# tBodyGyroJerk
+
+## mean
+
+* X: tBodyGyroJerk-mean()-X
+* Y: tBodyGyroJerk-mean()-Y
+* Z: tBodyGyroJerk-mean()-Z
+
+## std
+
+* X: tBodyGyroJerk-std()-X
+* Y: tBodyGyroJerk-std()-Y
+* Z: tBodyGyroJerk-std()-Z
 
 # tBodyAccMag
 
-## mean
+## mean: tBodyAccMag-mean()
 	
-## std
+## std: tBodyAccMag-std()
 	
 # tGravityAccMag
 
-## mean
+## mean: tGravityAccMag-mean()
 	
-## std
+## std: tGravityAccMag-std()
 	
 # tBodyAccJerkMag
 
-## mean		
+## mean: tBodyAccJerkMag-mean()		
 
-## std		
+## std: tBodyAccJerkMag-std()	
 
 # tBodyGyroMag
 
-## mean
+## mean: tBodyGyroMag-mean()
 	
-## std	
+## std: tBodyGyroMag-std()
 
 # tBodyGyroJerkMag
 
+## mean: tBodyGyroJerkMag-mean()
+
+## std: tBodyGyroJerkMag-std()
+
+# fBodyAcc
+
 ## mean
+
+* X: fBodyAcc-mean()-X
+* Y: fBodyAcc-mean()-Y
+* Z: fBodyAcc-mean()-Z
 
 ## std
 
-# fBodyAcc-XYZ
-
-## mean
-
-* X:
-* Y:
-* Z:
-
-## std
-
-* X:
-* Y:
-* Z:
+* X: fBodyAcc-std()-X
+* Y: fBodyAcc-std()-Y
+* Z: fBodyAcc-std()-Z
 
 ## meanFreq
 
-* X:
-* Y:
-* Z:
+* X: fBodyAcc-meanFreq()-X
+* Y: fBodyAcc-meanFreq()-Y
+* Z: fBodyAcc-meanFreq()-Z
 
-# fBodyAccJerk-XYZ
-
-## mean
-
-* X:
-* Y:
-* Z:
-
-## std
-
-* X:
-* Y:
-* Z:
-
-## meanFreq
-
-* X:
-* Y:
-* Z:
-
-# fBodyGyro-XYZ
+# fBodyAccJerk
 
 ## mean
 
-* X:
-* Y:
-* Z:
+* X: fBodyAccJerk-mean()-X
+* Y: fBodyAccJerk-mean()-X
+* Z: fBodyAccJerk-mean()-X
 
 ## std
 
-* X:
-* Y:
-* Z:
+* X: fBodyAccJerk-std()-X
+* Y: fBodyAccJerk-std()-X
+* Z: fBodyAccJerk-std()-X
 
 ## meanFreq
 
-* X:
-* Y:
-* Z:
+* X: fBodyAccJerk-meanFreq()-X
+* Y: fBodyAccJerk-meanFreq()-X
+* Z: fBodyAccJerk-meanFreq()-X
+
+# fBodyGyro
+
+## mean
+
+* X: fBodyGyro-mean()-X
+* Y: fBodyGyro-mean()-X
+* Z: fBodyGyro-mean()-X
+
+## std
+
+* X: fBodyGyro-std()-X
+* Y: fBodyGyro-std()-X
+* Z: fBodyGyro-std()-X
+
+## meanFreq
+
+* X: fBodyGyro-meanFreq()-X
+* Y: fBodyGyro-meanFreq()-X
+* Z: fBodyGyro-meanFreq()-X
 
 # fBodyAccMag
 
 
-## mean
+## mean: fBodyAccMag-mean()
 
-## std
+## std: fBodyAccMag-std()
 
-## meanFreq
+## meanFreq: fBodyAccMag-meanFreq()
 
 # fBodyAccJerkMag
 
 
-## mean
+## mean: fBodyBodyAccJerkMag-mean()
 
-## std
+## std: fBodyBodyAccJerkMag-std()
 
-## meanFreq
+## meanFreq: fBodyBodyAccJerkMag-meanFreq()
 
 # fBodyGyroMag
 
 
-## mean
+## mean: fBodyBodyGyroMag-mean()
 
-## std
+## std: fBodyBodyGyroMag-std()
 
-## meanFreq
+## meanFreq: fBodyBodyGyroMag-meanFreq()
 
 # fBodyGyroJerkMag
 
 
-## mean
+## mean: fBodyBodyGyroJerkMag-mean()
 
-## std
+## std: fBodyBodyGyroJerkMag-std()
 
-## meanFreq
-	
+## meanFreq: fBodyBodyGyroJerkMag-meanFreq()
 
+# Angle
 
-
-
-
-angle(tBodyAccMean,gravity)"          "angle(tBodyAccJerkMean),gravityMean)" "angle(tBodyGyroMean,gravityMean)"    
-[85] "angle(tBodyGyroJerkMean,gravityMean)" "angle(X,gravityMean)"                 "angle(Y,gravityMean)"                
-[88] "angle(Z,gravityMean)"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* angle(tBodyAccMean,gravity)
+* angle(tBodyAccJerkMean),gravityMean)
+* angle(tBodyGyroMean,gravityMean)
+* angle(tBodyGyroJerkMean,gravityMean)
+* angle(X,gravityMean)
+* angle(Y,gravityMean)
+* angle(Z,gravityMean)
