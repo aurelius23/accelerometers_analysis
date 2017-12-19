@@ -87,33 +87,43 @@ In this dataset there are **88** variables and **10299** observations
 
 # tBodyAccMag
 
-## mean: tBodyAccMag-mean()
+## mean
+ tBodyAccMag-mean()
 	
-## std: tBodyAccMag-std()
+## std
+ tBodyAccMag-std()
 	
 # tGravityAccMag
 
-## mean: tGravityAccMag-mean()
+## mean
+ tGravityAccMag-mean()
 	
-## std: tGravityAccMag-std()
+## std
+ tGravityAccMag-std()
 	
 # tBodyAccJerkMag
 
-## mean: tBodyAccJerkMag-mean()		
+## mean
+ tBodyAccJerkMag-mean()		
 
-## std: tBodyAccJerkMag-std()	
+## std
+ tBodyAccJerkMag-std()	
 
 # tBodyGyroMag
 
-## mean: tBodyGyroMag-mean()
+## mean
+ tBodyGyroMag-mean()
 	
-## std: tBodyGyroMag-std()
+## std
+ tBodyGyroMag-std()
 
 # tBodyGyroJerkMag
 
-## mean: tBodyGyroJerkMag-mean()
+## mean
+tBodyGyroJerkMag-mean()
 
-## std: tBodyGyroJerkMag-std()
+## std
+ tBodyGyroJerkMag-std()
 
 # fBodyAcc
 
@@ -178,38 +188,50 @@ In this dataset there are **88** variables and **10299** observations
 # fBodyAccMag
 
 
-## mean: fBodyAccMag-mean()
+## mean
+ fBodyAccMag-mean()
 
-## std: fBodyAccMag-std()
+## std
+ fBodyAccMag-std()
 
-## meanFreq: fBodyAccMag-meanFreq()
+## meanFreq
+ fBodyAccMag-meanFreq()
 
 # fBodyAccJerkMag
 
 
-## mean: fBodyBodyAccJerkMag-mean()
+## mean
+ fBodyBodyAccJerkMag-mean()
 
-## std: fBodyBodyAccJerkMag-std()
+## std
+ fBodyBodyAccJerkMag-std()
 
-## meanFreq: fBodyBodyAccJerkMag-meanFreq()
+## meanFreq
+ fBodyBodyAccJerkMag-meanFreq()
 
 # fBodyGyroMag
 
 
-## mean: fBodyBodyGyroMag-mean()
+## mean
+ fBodyBodyGyroMag-mean()
 
-## std: fBodyBodyGyroMag-std()
+## std
+ fBodyBodyGyroMag-std()
 
-## meanFreq: fBodyBodyGyroMag-meanFreq()
+## meanFreq
+ fBodyBodyGyroMag-meanFreq()
 
 # fBodyGyroJerkMag
 
 
-## mean: fBodyBodyGyroJerkMag-mean()
+## mean
+ fBodyBodyGyroJerkMag-mean()
 
-## std: fBodyBodyGyroJerkMag-std()
+## std
+ fBodyBodyGyroJerkMag-std()
 
-## meanFreq: fBodyBodyGyroJerkMag-meanFreq()
+## meanFreq
+ fBodyBodyGyroJerkMag-meanFreq()
 
 # Angle
 
