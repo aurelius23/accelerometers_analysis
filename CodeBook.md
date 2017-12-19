@@ -3,223 +3,203 @@
 In this dataset there are **88** variables and **10299** observations
 
 # Subject
-	* subject **1**
-	* subject **2**
-	* subject **3**
+* subject **1**
+* subject **2**
+* subject **3**
 
 # Activity
 
 # tBodyAcc-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
 # tGravityAcc-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # tBodyAccJerk-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # tBodyGyro-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # tBodyGyroJerk-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # tBodyAccMag
 
-	## mean
-
+## mean
 	
-
-	## std
-
-		
-
+## std
+	
 # tGravityAccMag
 
-	## mean
-
-		
-
-	## std
-
-		
-
+## mean
+	
+## std
+	
 # tBodyAccJerkMag
 
-	## mean
+## mean		
 
-		
-
-	## std
-
-		
+## std		
 
 # tBodyGyroMag
 
-	## mean
-
-		
-
-	## std
-
-		
+## mean
+	
+## std	
 
 # tBodyGyroJerkMag
 
-	## mean
+## mean
 
-
-
-	## std
-
-
+## std
 
 # fBodyAcc-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## meanFreq
+## meanFreq
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # fBodyAccJerk-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## meanFreq
+## meanFreq
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # fBodyGyro-XYZ
 
-	## mean
+## mean
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## std
+## std
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
-	## meanFreq
+## meanFreq
 
-		* X:
-		* Y:
-		* Z:
+* X:
+* Y:
+* Z:
 
 # fBodyAccMag
 
 
-	## mean
+## mean
 
-	## std
+## std
 
-	## meanFreq
+## meanFreq
 
 # fBodyAccJerkMag
 
 
-	## mean
+## mean
 
-	## std
+## std
 
-	## meanFreq
+## meanFreq
 
 # fBodyGyroMag
 
 
-	## mean
+## mean
 
-	## std
+## std
 
-	## meanFreq
+## meanFreq
 
 # fBodyGyroJerkMag
 
 
-	## mean
+## mean
 
-	## std
+## std
 
-	## meanFreq
+## meanFreq
 	
 
 
